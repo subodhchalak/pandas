@@ -1,0 +1,86 @@
+{
+  "Rosaline Frankline":{
+    "Occupation":"Chemist",
+    "Born":"1920-07-25",
+    "Died":"1958-04-16",
+    "Age":37,
+    "Born_dt":"1920-07-25T00:00:00.000",
+    "Died_dt":"1958-04-16T00:00:00.000",
+    "country":"india",
+    "Age_days":37.7248459959,
+    "age_days_assing":"P13779DT0H0M0S",
+    "age_year_assign":"P0DT0H0M1.167609600S"
+  },
+  "William Gosset":{
+    "Occupation":"Statestician",
+    "Born":"1876-06-13",
+    "Died":"1937-10-16",
+    "Age":61,
+    "Born_dt":"1876-06-13T00:00:00.000",
+    "Died_dt":"1937-10-16T00:00:00.000",
+    "country":"england",
+    "Age_days":61.3388090349,
+    "age_days_assing":"P22404DT0H0M0S",
+    "age_year_assign":"P0DT0H0M1.924992S"
+  },
+  "Albert Einstein":{
+    "Occupation":"Physicist",
+    "Born":"1879-03-14",
+    "Died":"1955-04-18",
+    "Age":76,
+    "Born_dt":"1879-03-14T00:00:00.000",
+    "Died_dt":"1955-04-18T00:00:00.000",
+    "country":"morocco",
+    "Age_days":76.0930869268,
+    "age_days_assing":"P27793DT0H0M0S",
+    "age_year_assign":"P0DT0H0M2.398377600S"
+  },
+  "Marie Curie":{
+    "Occupation":"Physicist",
+    "Born":"1867-11-07",
+    "Died":"1934-07-04",
+    "Age":66,
+    "Born_dt":"1867-11-07T00:00:00.000",
+    "Died_dt":"1934-07-04T00:00:00.000",
+    "country":"usa",
+    "Age_days":66.6529774127,
+    "age_days_assing":"P24345DT0H0M0S",
+    "age_year_assign":"P0DT0H0M2.082758400S"
+  },
+  "Linus Pauling":{
+    "Occupation":"Chemist",
+    "Born":"1901-12-28",
+    "Died":"1994-08-19",
+    "Age":93,
+    "Born_dt":"1901-12-28T00:00:00.000",
+    "Died_dt":"1994-08-19T00:00:00.000",
+    "country":"france",
+    "Age_days":92.6406570842,
+    "age_days_assing":"P33837DT0H0M0S",
+    "age_year_assign":"P0DT0H0M2.903299200S"
+  },
+  "Alan Turing":{
+    "Occupation":"Statestician",
+    "Born":"1903-06-23",
+    "Died":"1954-06-07",
+    "Age":50,
+    "Born_dt":"1903-06-23T00:00:00.000",
+    "Died_dt":"1954-06-07T00:00:00.000",
+    "country":"germany",
+    "Age_days":50.9568788501,
+    "age_days_assing":"P18612DT0H0M0S",
+    "age_year_assign":"P0DT0H0M1.577836800S"
+  },
+  "Ada Lovelace":{
+    "Occupation":"Mathematician",
+    "Born":"1822-06-23",
+    "Died":"1852-11-27",
+    "Age":36,
+    "Born_dt":"1822-06-23T00:00:00.000",
+    "Died_dt":"1852-11-27T00:00:00.000",
+    "country":"hungary",
+    "Age_days":30.431211499,
+    "age_days_assing":"P11115DT0H0M0S",
+    "age_year_assign":"P0DT0H0M0.946684800S"
+  }
+}
